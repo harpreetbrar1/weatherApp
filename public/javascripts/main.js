@@ -1,5 +1,5 @@
 //Probably store this url in .env for easy of maintainability
-const url = 'http://localhost:8080/';
+const url = ' https://sleepy-harbor-81223.herokuapp.com/';
 
 //Creates a map using api key and a script
 loadMapWithCities = (data) => {
