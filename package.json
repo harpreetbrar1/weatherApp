@@ -3,9 +3,7 @@
     "node": "~12.4.0",
     "npm": "~6.11.3"
   },
-  "name": "generator",
-  "version": "0.0.0",
-  "private": true,
+  
   "scripts": {
     "build": "tsc",
     "dev": "nodemon --exec ts-node ",
