@@ -1,0 +1,19 @@
+/* This stylesheet contains css elements of all components as
+   the css elements are not alot so I stored them in one file
+   But in a large project i would categorize them on basis of their 
+   components*/
+
+#heading{
+  color: white;
+  font-size: xx-large
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 100%;
+}
+
