@@ -2,4 +2,4 @@
 
 #To start run node server.js
 
-#However, this app will not work locally because there is no API Key included for security reasons
+#However, this app will not work locally because it requires personal Google Maps API Key
